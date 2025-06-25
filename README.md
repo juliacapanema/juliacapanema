@@ -23,6 +23,8 @@
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=sql-server&logoColor=007ACC)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+
 ## Ferramentas 💼
 
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
