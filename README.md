@@ -23,4 +23,5 @@
 
 ## Contato 💌 
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin,gmail&perline=6)](https://skillicons.dev)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/juliaicapanema150)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:juliainaciocapanema@gmail.com)
