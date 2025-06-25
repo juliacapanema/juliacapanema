@@ -8,9 +8,9 @@
 
 <p align="left">
   
-- 🎓 Atualmente estudante de Engenharia de Software na UNIVILLE.
-- 💼 Aprendendo mais sobre desenvolvimento full stack, <br> arquitetura de software e banco de dados relacional.
-- 🌱 Sou estagiária na area de Desenvolvimento de Software na Becomex
+  - 🎓 Graduanda em Engenharia de Software na UNIVILLE.
+  - 💻 Desenvolvedora Full Stack Júnior com foco em aplicações web, arquitetura de software e bancos de dados relacionais.
+  - 🚀 Atuando na área de Desenvolvimento de Software na Becomex, contribuindo com soluções escaláveis e robustas para de comércio exterior
 </p>
 
 ## Linguagens 🚀
