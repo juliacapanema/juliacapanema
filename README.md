@@ -10,7 +10,7 @@
   
   - 🎓 Graduanda em Engenharia de Software na UNIVILLE.
   - 💻 Desenvolvedora Full Stack com foco em aplicações web, arquitetura de software e bancos de dados relacionais.
-  - 🚀 Atuando na área de Engenharia de Software na Becomex, contribuindo com soluções escaláveis e robustas para comércio exterior
+  - 🚀 Atuando na área de Engenharia de Software na Linx, contribuindo com soluções escaláveis e robustas para varejo.
 </p>
 
 ## Linguagens 🚀
